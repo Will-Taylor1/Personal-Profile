@@ -1,7 +1,8 @@
 body {
   background-color: #00005C;
   color: #D9D9D7;
-  font-family:VCROSDMono
+  font-family: 'Sono', sans-serif;
+  font-size:smaller;
 }
 
 .img {
@@ -20,6 +21,7 @@ body {
   max-width: 100%;
   align-items: center;
 }
+
 
 .header {
   margin-left: 10px;
